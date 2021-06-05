@@ -25,6 +25,8 @@ function App() {
 
           {title}
         </a>
+
+        <button type="button" class="btn btn-primary">Bootstrap 5 Style Test</button>
       </header>
     </div>
   );
